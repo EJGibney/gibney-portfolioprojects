@@ -1,7 +1,7 @@
 <h1 id="spotify-audio-features-and-genre-popularity-analysis">Spotify Audio Features and Genre Popularity Analysis</h1>
 <h2 id="a-genre-and-feature-level-analysis-for-independent-artists--marketing-teams">A Genre and Feature-Level Analysis for Independent Artists &amp; Marketing Teams</h2>
 <h2 id="business-context">1. Business Context</h2>
-<p>This analysis was conducted for a marketing team working with independendent music artists to understand what musical characteristics make songs popular on Spotify.</p>
+<p>This analysis was conducted for a marketing team working with independent music artists to understand what musical characteristics make songs popular on Spotify.</p>
 <h2 id="business-question">2. Business Question</h2>
 <p>Independent artists and their marketing teams seek to understand how musical characteristics influence listener engagement on Spotify. This analysis addresses the following questions:</p>
 <ul>
