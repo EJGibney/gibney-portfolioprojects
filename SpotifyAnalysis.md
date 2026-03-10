@@ -85,7 +85,7 @@ ORDER  BY  avg_popularity  DESC;
 <p><strong>Ambient and low-energy genres demonstrate sustained popularity despite lower energy and danceability scores</strong>, indicating that success on Spotify is not limited to high-intensity music. Genres associated with relaxation, focus, or background listening perform well in playlist-driven environments, highlighting the importance of aligning musical style with listener use cases.</p>
 </li>
 <li>
-<p><strong>Tracks with higher valence are more prevalent among higher-popularity genres</strong>, suggesting a general listener preference for emotionally positive or uplifting sound profiles. Thnis isn’t a requirement for a successful track,  but this trend indicates that mood and emotional tone may influence engagement, particularly in mainstream contexts.</p>
+<p><strong>Tracks with higher valence are more prevalent among higher-popularity genres</strong>, suggesting a general listener preference for emotionally positive or uplifting sound profiles. This isn’t a requirement for a successful track,  but this trend indicates that mood and emotional tone may influence engagement, particularly in mainstream contexts.</p>
 </li>
 <li>
 <p><strong>Highly instrumental or acoustically dominant tracks tend to cluster at lower popularity levels</strong>, implying a narrower audience reach. For independent artists, this should not signal avoidance, but rather emphasizes the need for targeted marketing strategies when working within more specialized or niche sound profiles.</p>
